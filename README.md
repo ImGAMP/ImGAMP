@@ -51,7 +51,7 @@
 
 ## 📬 Contact
 
-- 📧 [imgamp.it@gmail.com](mailto:imgamp.it@gmail.com)
+- 📧 [gmojica@unal.edu.co](mailto:gmojica@unal.edu.co)
 - 💼 [LinkedIn](https://www.linkedin.com/in/imgamp-it/)
 
 ---
